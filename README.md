@@ -1,7 +1,15 @@
 # 👋 Hello! I'm Kamalakannan M
 
+![Profile Views](https://komarev.com/ghpvc/?username=kamalakannan-1208&label=Profile%20views&color=0e75b6&style=flat)
+
 Welcome to my GitHub profile!  
 I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python, Java, and PostgreSQL**, and a deep interest in solving real-world problems using **data and intelligent systems**.
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kamalakannan-1208&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
@@ -29,20 +37,20 @@ I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python, Java
 
 ## 🚀 Currently Exploring
 
-- 🤖 Advanced Machine Learning and Deep Learning
-- 🗣️ Natural Language Processing & LLMs
-- ☁️ FastAPI, Docker, and Cloud Deployment
-- 🔗 Vector DBs and RAG-based Applications
+- 🤖 Advanced Machine Learning and Deep Learning  
+- 🗣️ Natural Language Processing & LLMs  
+- ☁️ FastAPI, Docker, and Cloud Deployment  
+- 🔗 Vector DBs and RAG-based Applications  
 
 ---
 
 ## 📂 Projects & Case Studies
 
 Explore my repositories for work on:
-- ✅ Data Analysis
-- ✅ Machine Learning
-- ✅ NLP 
-- ✅ Generative AI
+- ✅ Data Analysis  
+- ✅ Machine Learning  
+- ✅ NLP  
+- ✅ Generative AI  
 
 > I aim to build intelligent, ethical, and scalable systems that solve meaningful problems.
 
@@ -60,6 +68,7 @@ Explore my repositories for work on:
 
 I'm always open to collaboration, mentorship, and learning.
 
-- 📧 Email: [kamalakannan.m1208@gmail.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/kamalakannan-m-18b761354/]
+- 📧 Email: [kamalakannan.m1208@gmail.com](mailto:kamalakannan.m1208@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/kamalakannan-m-18b761354](https://www.linkedin.com/in/kamalakannan-m-18b761354)
+
 ---
