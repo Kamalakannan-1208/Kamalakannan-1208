@@ -1,38 +1,65 @@
-## Hi there 👋
+# 👋 Hello! I'm Kamalakannan M
 
-## I am kamalakannan 
-## passionate about Artificial Intelligence(AI)/ Machine Learning(ML)/ NLP / GenAI
+Welcome to my GitHub profile!  
+I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python, Java, and PostgreSQL**, and a deep interest in solving real-world problems using **data and intelligent systems**.
 
-## profile views
+---
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
+## 🔧 Tech Stack & Tools
 
-## ⚡️ Stats
+### 🖥️ Languages
+- **Python**
+- **Java**
+- **PostgreSQL**
 
-<br>
+### 📚 Libraries & Frameworks
+- **NumPy**, **Pandas**, **Matplotlib**
+- **Scikit-learn**, **TensorFlow**
+- **Langchain**, **NLTK**
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
-</div>
+---
 
-<hr>
+## 📘 Core Subjects & Concepts
 
-<!--
-**Kamalakannan-1208/Kamalakannan-1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 **Statistics & Probability** – Descriptive & inferential analysis, distributions, hypothesis testing  
+- 🧠 **Object-Oriented Programming (OOPs)** – Design principles, encapsulation, inheritance, polymorphism  
+- 🧮 **Data Structures & Algorithms** – Arrays, Linked Lists, Trees, Graphs, Sorting & Searching  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Exploring
+
+- 🤖 Advanced Machine Learning and Deep Learning
+- 🗣️ Natural Language Processing & LLMs
+- ☁️ FastAPI, Docker, and Cloud Deployment
+- 🔗 Vector DBs and RAG-based Applications
+
+---
+
+## 📂 Projects & Case Studies
+
+Explore my repositories for work on:
+- ✅ Data Analysis
+- ✅ Machine Learning
+- ✅ NLP 
+- ✅ Generative AI
+
+> I aim to build intelligent, ethical, and scalable systems that solve meaningful problems.
+
+---
+
+## 📊 GitHub Stats
+
+![Kamalakannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalakannan-1208&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalakannan-1208&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaboration, mentorship, and learning.
+
+- 📧 Email: [kamalakannan.m1208@gmail.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/kamalakannan-m-18b761354/]
+---
