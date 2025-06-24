@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kamalakannan-1208&label=Profile%20views&color=0e75b6&style=flat)
 
 Welcome to my GitHub profile!  
-I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python, Java, and PostgreSQL**, and a deep interest in solving real-world problems using **data and intelligent systems**.
+I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python and PostgreSQL**, and a deep interest in solving real-world problems using **data and intelligent systems**.
 
 ---
 
@@ -17,7 +17,6 @@ I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python, Java
 
 ### 🖥️ Languages
 - **Python**
-- **Java**
 - **PostgreSQL**
 
 ### 📚 Libraries & Frameworks
