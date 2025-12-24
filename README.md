@@ -22,34 +22,35 @@ I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python and P
 ### 📚 Libraries & Frameworks
 - **NumPy**, **Pandas**, **Matplotlib**
 - **Scikit-learn**, **TensorFlow**
-- **Langchain**, **NLTK**
+- **Langchain**, **NLTK**, **CrewAI**
 
 ---
 
 ## 📘 Core Subjects & Concepts
 
-- 📊 **Statistics & Probability** – Descriptive & inferential analysis, distributions, hypothesis testing  
-- 🧠 **Object-Oriented Programming (OOPs)** – Design principles, encapsulation, inheritance, polymorphism  
-- 🧮 **Data Structures & Algorithms** – Arrays, Linked Lists, Trees, Graphs, Sorting & Searching  
+- 📊 **Statistics & Probability** 
+- 🧠 **Object-Oriented Programming (OOPs)**
+- 🧮 **Data Structures & Algorithms**
 
 ---
 
 ## 🚀 Currently Exploring
 
 - 🤖 Advanced Machine Learning and Deep Learning  
-- 🗣️ Natural Language Processing & LLMs  
-- ☁️ FastAPI, Docker, and Cloud Deployment  
-- 🔗 Vector DBs and RAG-based Applications  
+- ☁️ Cloud Deployment  
+
 
 ---
 
 ## 📂 Projects & Case Studies
 
 Explore my repositories for work on:
-- ✅ Data Analysis  
+- ✅ Artificial Intelligence
 - ✅ Machine Learning  
 - ✅ NLP  
-- ✅ Generative AI  
+- ✅ Generative AI
+- ✅ AI Agents
+- ✅ Agentic AI
 
 > I aim to build intelligent, ethical, and scalable systems that solve meaningful problems.
 
