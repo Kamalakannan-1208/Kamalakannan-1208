@@ -9,12 +9,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kamalakannan-1208&theme=radical&no-frame=true&margin-w=10)
-
----
-
 ## Tech Stack & Tools
 
 ### 🧠 AI/ML
@@ -28,7 +22,7 @@ Welcome to my GitHub profile!
 - **Python**
 - **PostgreSQL**
 
-### 🔧 𝐓𝐨𝐨𝐥𝐬
+### 🔧 Tools
 
 - **GCP, Vertex AI, Git, GitHub**
 
@@ -71,13 +65,6 @@ Explore my repositories for work on:
 
 ---
 
-## 📊 GitHub Stats
-
-![Kamalakannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalakannan-1208&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalakannan-1208&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
