@@ -1,9 +1,11 @@
 # 👋 Hello! I'm Kamalakannan M
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kamalakannan-1208&label=Profile%20views&color=0e75b6&style=flat)
+Artificial Intelligence
 
-Welcome to my GitHub profile!  
-**AI/ML Engineer** and **Generative AI Engineer** with** 8 months of experience** designing, developing and deploying production-ready **Agentic AI systems **and **AI agents** using **CrewAI** and **FastAPI**, as well as building RetrievalAugmented Generation (RAG) architectures with** Python, LangChain, ChromaDB**, and **open-source LLMs**.
+Welcome to my GitHub profile!
+**AI/ML Engineer** and **Generative AI Engineer** with **8 months of experience** designing, developing and deploying production- ready **Agentic AI Systems** and **AI agents** using **CrewAI** and **FastAPI** as well as building Retrieval Augmented Generation (RAG) Architectures with **Python**, **Langchain**, **ChromaDB** and **open-source LLMS**.
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -12,18 +14,21 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🧠 𝐀𝐈/𝐌𝐋 
+### 🧠 AI/ML
+
 - **Artificial Intelligence (AI), Machine Learning (ML)**
 - **Generative AI (Gen AI), Natural Language Processing (NLP)**
 -  **AI Agents , Agentic AI.**
 
 ### 🖥️ Languages
+
 - **Python**
 - **PostgreSQL**
 
-### 𝐓𝐨𝐨𝐥𝐬
+### 🔧 𝐓𝐨𝐨𝐥𝐬
+
 - **GCP, Vertex AI, Git, GitHub**
 
 ### 📚 Libraries & Frameworks
