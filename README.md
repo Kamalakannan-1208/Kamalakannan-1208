@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kamalakannan-1208&label=Profile%20views&color=0e75b6&style=flat)
 
 Welcome to my GitHub profile!  
-I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python and PostgreSQL**, and a deep interest in solving real-world problems using **data and intelligent systems**.
-
+**AI/ML Engineer** and **Generative AI Engineer** with** 8 months of experience** designing, developing and deploying production-ready **Agentic AI systems **and **AI agents** using **CrewAI** and **FastAPI**, as well as building RetrievalAugmented Generation (RAG) architectures with** Python, LangChain, ChromaDB**, and **open-source LLMs**.
 ---
 
 ## 🏆 GitHub Trophies
@@ -15,22 +14,32 @@ I'm a passionate **AI/ML enthusiast** with a strong foundation in **Python and P
 
 ## 🔧 Tech Stack & Tools
 
+### 🧠 𝐀𝐈/𝐌𝐋 
+- **Artificial Intelligence (AI), Machine Learning (ML)**
+- **Generative AI (Gen AI), Natural Language Processing (NLP)**
+-  **AI Agents , Agentic AI.**
+
 ### 🖥️ Languages
 - **Python**
 - **PostgreSQL**
 
+### 𝐓𝐨𝐨𝐥𝐬
+- **GCP, Vertex AI, Git, GitHub**
+
 ### 📚 Libraries & Frameworks
+
+
+- **Langchain**, **CrewAI**, **NLTK**
+- **Fast API**, **guardrails**
 - **NumPy**, **Pandas**, **Matplotlib**
 - **Scikit-learn**, **TensorFlow**
-- **Langchain**, **NLTK**, **CrewAI**
 
 ---
 
 ## 📘 Core Subjects & Concepts
 
-- 📊 **Statistics & Probability** 
-- 🧠 **Object-Oriented Programming (OOPs)**
-- 🧮 **Data Structures & Algorithms**
+-  **Object-Oriented Programming (OOPs)**
+-  **Data Structures & Algorithms**
 
 ---
 
