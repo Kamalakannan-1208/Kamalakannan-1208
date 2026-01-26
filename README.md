@@ -71,6 +71,6 @@ Explore my repositories for work on:
 I'm always open to collaboration, mentorship, and learning.
 
 - 📧 Email: [kamalakannan.m1208@gmail.com](mailto:kamalakannan.m1208@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/kamalakannan-m-18b761354](https://www.linkedin.com/in/kamalakannan-m-18b761354)
+
 
 ---
